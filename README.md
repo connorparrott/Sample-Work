@@ -1,3 +1,2 @@
 # Sample-Work
-    Currently in a Web Development course so my JavaScript portfolio is growing the most. On my own I'm working on brushing up my Python skills and writting
-    better sample code, to give a better idea of my experience with the language.
+    I've completed courses in C/C++, Java, Python and Javascript. I currently have an internship working as a fullstack web developer at Miltech. On my own time, I am learning data science and Machine Learning to further develop my skills.
